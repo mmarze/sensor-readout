@@ -1,7 +1,7 @@
 # sensor-readout
 A student project on programming in Python.
 
-_In a mine, measurements are being taken using sensors, the number of which can vary between different measurement series. For each sensor, the results are available in the form of 4 columns: name, description, time, alarm. Each sensor can trigger a warning alarm. Prepare a script to be run from the console, which will read the measurement results from any number of CSV files and present the entirety in the form of a matrix. Examples of input files and the result file can be found in the folder "Exmaple"._
+_In a mine, measurements are being taken using sensors, the number of which can vary between different measurement series. For each sensor, the results are available in the form of 4 columns: name, description, time, alarm. Each sensor can trigger a warning alarm. Prepare a script to be run from the console, which will read the measurement results from any number of CSV files and present the entirety in the form of a matrix. Examples of input files and the result file can be found in the folder "Example"._
 
 _Requirements:_
 1. _Use argparse or similar package_
